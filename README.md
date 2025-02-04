@@ -13,6 +13,7 @@ sh
 Copiar
 Editar
 git clone https://github.com/GustavoSousaa/Projeto-Jogo-Dados.git
+
 cd Projeto-Jogo-Dados
 Execute o jogo:
 
